@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-[![Linkedin: Joao Cabral](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev//)](https://www.linkedin.com/in/jcabraldev/) 
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev/)](https://www.linkedin.com/in/jcabraldev/)
+ 
 ![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg)
