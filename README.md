@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
  <a href="https://github.com/C4BRALL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&count_private=true&show_icons=true&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&theme=dracula&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&count_private=true&show_icons=true&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&theme=dracula&layout=compact" />
 </a>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4BRALL&count_private=true&show_icons=true&theme=dracula)
