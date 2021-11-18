@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev/)](https://www.linkedin.com/in/jcabraldev/)
 ## 
 ![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg)
-
 ##
 <!--
-<a href="https://github.com/C4BRALL/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=Trybe-exercisios" />
+<a href="https://github.com/C4BRALL/trybe-exercicios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=trybe-exercisios" />
 </a>
+
 <a href="https://github.com/C4BRALL/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=convoychat" />
 </a>
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=trybe-exercicios&theme=dracula)](https://github.com/C4BRALL/trybe-exercicios)
