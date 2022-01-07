@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=trybe-exercicios&theme=dracula)](https://github.com/C4BRALL/trybe-exercicios)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=meu-portfolio&theme=dracula)](https://github.com/C4BRALL/C4BRALL.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=C4BRALL.github.io&theme=dracula)](https://github.com/C4BRALL/C4BRALL.github.io)
