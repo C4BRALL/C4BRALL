@@ -2,11 +2,14 @@
 
 - 🌱 I’m currently learning Web Development at Trybe.
 
+<a href="https://app.daily.dev/Cabral033">
+  <img src="https://api.daily.dev/devcards/09005cbefdb14d35993aabb688bd324e.png?r=1a2" width="280" alt="Cabral's Dev Card"/>
+</a>
+
 <!--
 **C4BRALL/C4BRALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Development at TRybe.
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
  <a href="https://github.com/C4BRALL">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&count_private=true&show_icons=true&theme=dracula" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&theme=dracula&layout=compact" />
