@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&show_icons=true&theme=dracula" alt="C4BRALL's stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&layout=compact&theme=dracula" alt="C4BRALL's most languages"/>
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&show_icons=true&theme=dracula" alt="C4BRALL's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&layout=compact&theme=dracula" alt="C4BRALL's most languages"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
