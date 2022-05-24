@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning Web Development at Trybe.
 
+<a href="https://www.github.com/C4BRALL" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/C4BRALL?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+
 <!--
 **C4BRALL/C4BRALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
