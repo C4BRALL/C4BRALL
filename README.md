@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: inline_block">
-  <a href:"https://www.linkedin.com/in/jcabraldev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev/"></a>
-  <a href:"https://jcabral304@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jcabraldev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev/"></a>
+  <a href="mailto:jcabral304@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg)
