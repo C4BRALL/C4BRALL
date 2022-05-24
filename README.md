@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcabraldev/)](https://www.linkedin.com/in/jcabraldev/)
 
+[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jcabral304@gmail.com)
+
 ![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg)
 ##
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=Trivia&theme=dracula)](https://github.com/C4BRALL/Trivia) -->
