@@ -1,6 +1,7 @@
 ### Hi there 👏
 
 - 🌱 I’m currently learning Web Development at Trybe.
+- 🔭 I'm currently working as a full stack developer at <a href="https://www.mobtelecom.com.br" target="_blank" rel="noreferrer">Mob Telecom</a>
 
 <p align="left">
   <a href="https://www.github.com/C4BRALL" target="_blank" rel="noreferrer">
@@ -16,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning Web Development at TRybe.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
