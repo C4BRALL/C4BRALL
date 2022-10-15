@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   <img align="center" alt="L-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="L-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="L-React" height="40" width="40" src="https://vitejs.dev/logo-with-shadow.png">
+  <img align="center" alt="L-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
 </div>
 
 ##
