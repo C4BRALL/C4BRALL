@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&show_icons=true&count_private=true&theme=dracula" alt="C4BRALL's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&langs_count=15&layout=compact&show_icons=true&count_private=true&theme=dracula" alt="C4BRALL's most languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=C4BRALL&show_icons=true&count_private=true&theme=dracula" alt="C4BRALL's stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&langs_count=30&layout=compact&show_icons=true&count_private=true&theme=dracula" alt="C4BRALL's most languages"/>
 </div>
 
 ##
