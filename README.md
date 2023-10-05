@@ -59,6 +59,7 @@ Here are some ideas to get you started:
   <img align="center" alt="GraphQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
   <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Golang" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </div>
 
 ##
