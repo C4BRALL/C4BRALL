@@ -69,6 +69,6 @@ https://www.linkedin.com/in/cabraldev/
   <a href="mailto:cabral047dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/C4BRALL/C4BRALL/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C4BRALL&repo=Trivia&theme=dracula)](https://github.com/C4BRALL/Trivia) -->
