@@ -1,7 +1,7 @@
 ### Hi there 👏
 
 - 🔭 I'm currently working as a Tech Leader at <a href="https://alloha.com/" target="_blank" rel="noreferrer">Alloha Fibra</a>
-- 😄 Pronouns: him, his
+- 😄 Pronouns: he, him
 
 <p align="left">
   <a href="https://www.github.com/C4BRALL" target="_blank" rel="noreferrer">
