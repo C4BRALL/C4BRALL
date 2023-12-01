@@ -1,6 +1,6 @@
 ### Hi there 👏
 
-- 🔭 I'm currently working as a full stack developer at <a href="https://www.mobtelecom.com.br" target="_blank" rel="noreferrer">Mobwire</a> and Tech Leader at <a href="https://alloha.com/" target="_blank" rel="noreferrer">Alloha Fibra</a>
+- 🔭 I'm currently working as a Tech Leader at <a href="https://alloha.com/" target="_blank" rel="noreferrer">Alloha Fibra</a>
 - 😄 Pronouns: him, his
 
 <p align="left">
